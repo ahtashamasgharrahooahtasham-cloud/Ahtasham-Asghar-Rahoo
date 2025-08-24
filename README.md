@@ -3,7 +3,7 @@ Hello, This is my first Github Profile
 <h1 align="center">Hi 👋, I'm Ahtasham Asghar Rahoo</h1>
 <h3 align="center">A passionate frontend developer from Pakistan</h3>
 
-- 🔭 I’m currently working on **AI Student, HTML, Css, JavaScript**
+- 🔭 I’m currently working as **AI Student and i learn HTML, Css, JavaScript**
 
 - 🌱 I’m currently learning **jQuery Frame Work**
 
